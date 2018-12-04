@@ -1,2 +1,2 @@
-# sat_spec_rb
+# saturationspec-rb
 Saturation Spectroscopy Experiment on Rubidium
